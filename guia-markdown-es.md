@@ -1,3 +1,9 @@
+[Inicio/Home](README.md) · [English version](guide-markdown-en.md)
+
+---
+
+# Guía básica de Markdown <!-- omit from toc -->
+
 # Guía básica de Markdown <!-- omit from toc -->
 
 ## Sintaxis, organización y ejemplos <!-- omit from toc -->
